@@ -58,6 +58,8 @@ pnpm dev
 ```
 Open http://localhost:5173 in your browser.
 
+---
+
 ## 🏗️ Build for Production
 
 To create an optimized production build, run:
@@ -65,6 +67,9 @@ To create an optimized production build, run:
 ```bash
 npm run build
 ```
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.
@@ -76,6 +81,8 @@ You are free to:
 - ✅ Use it for personal or commercial projects
 
 See the `LICENSE` file for full details.
+
+---
 
 ## 🤝 Contributing
 
@@ -98,6 +105,8 @@ Follow these steps to contribute:
    ```
 5. Open a Pull Request
 
+---
+
 ## 💡 Why LocalStorage?
 
 This app is designed as a **lightweight, offline-first solution** with **no backend dependency**.
@@ -114,6 +123,8 @@ For production-grade apps with authentication and cloud sync, consider:
 - Appwrite
 - A custom backend (Node.js + database)
 
+---
+
 ## 📸 Screenshots / GIFs (Recommended)
 
 Add real screenshots or screen recordings to improve the project presentation:
@@ -127,6 +138,9 @@ Example:
 
 ```md
 ![Add Note](images/add-note.png)
+```
+
+---
 
 ## 🔗 Project Links
 
@@ -138,6 +152,8 @@ Example:
 
 - 👤 **Portfolio / Contact:**  
   *(Add your LinkedIn or personal website here)*
+
+---
 
 ## ❤️ Author
 
