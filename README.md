@@ -5,8 +5,7 @@ A clean, responsive **Notes Application** built with **React**, **Vite**, **Tail
 🔗 **Live Demo:**  
 https://professional-notes-app.vercel.app/
 
-![Notes App Screenshot](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)  
-*(Replace this with actual screenshots or GIFs by uploading images to the repo and updating the link)*
+![Notes App Screenshot](https://github.com/user-attachments/assets/e4ac7c0d-fd42-4b3a-8cb5-fd29777e5935)
 
 ---
 
